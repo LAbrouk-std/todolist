@@ -22,9 +22,7 @@ function Main () {
         <Text label="Titre"/>
         <Text label="Description"/>
         <h3>Date de fin</h3>
-        <Selection label="03"/> 
-        <Selection label="10"/> 
-        <Selection label="2025"/>
+        <Selection/>
         <RadioBtn/>
         <Button label="Enregister"/>
     </div>
